@@ -1,10 +1,10 @@
 # Unsupervised Learning
 This repository contains machine learning notebooks focused on unsupervised learning. Each *script* is a guided Jupyter Notebook that walks through a key stage of the data-science workflow — combining conceptual explanations, analytical exploration, live coding exercises, and sample solutions.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/supervised-learning/main?urlpath=tree&clear_cache=0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/unsupervised-learning/main?urlpath=tree&clear_cache=0)
 <br><br>
 **Interactive Mode**<br>
-Click the **Launch Binder** button above to experience the notebooks in interactive mode.
+Click the **Launch Binder** button above to experience the notebooks in interactive mode. It may take a few seconds to load the first time you launch.
 <br><br>
 __**Static Mode**__<br>
 Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">supervised-learning repository</a> to experience the notebooks in static mode. Note that if you wish to download notebooks to experience them locally, it is highly recommended that you first set up environment.yml (available in the repository).
