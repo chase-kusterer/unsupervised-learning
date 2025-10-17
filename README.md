@@ -4,7 +4,7 @@ This repository contains machine learning notebooks focused on unsupervised lear
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/unsupervised-learning/main?urlpath=tree&clear_cache=0)
 <br><br>
 **Interactive Mode**<br>
-Click the **Launch Binder** button above to experience the notebooks in interactive mode. It may take a few seconds to load the first time you launch.
+Click the **Launch Binder** button above to experience the notebooks in interactive mode. It may take a minute to load the first time you launch.
 <br><br>
 __**Static Mode**__<br>
 Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">supervised-learning repository</a> to experience the notebooks in static mode. Note that if you wish to download notebooks to experience them locally, it is highly recommended that you first set up environment.yml (available in the repository).
