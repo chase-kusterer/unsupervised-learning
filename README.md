@@ -1,5 +1,5 @@
-# Supervised Learning
-This repository contains machine learning notebooks focused on supervised learning (regression and classification). Each *script* is a guided Jupyter Notebook that walks through a key stage of the data-science workflow — combining conceptual explanations, analytical exploration, live coding exercises, and sample solutions.
+# Unsupervised Learning
+This repository contains machine learning notebooks focused on unsupervised learning. Each *script* is a guided Jupyter Notebook that walks through a key stage of the data-science workflow — combining conceptual explanations, analytical exploration, live coding exercises, and sample solutions.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/supervised-learning/main?urlpath=tree&clear_cache=0)
 <br><br>
@@ -12,25 +12,10 @@ Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">sup
 
 ## Table of Contents
 ### Regression Modeling
-- Script 01 - Base Modeling<br>
-- Script 02 - Missing Value Analysis and Transformations<br>
-- Script 03 - Feature Engineering<br>
-- Script 04 - Feature Engineering with Discrete Data<br>
-- Script 05 - The Model Building Framework<br>
-- Script 06 - Advanced Linear Models<br>
-- Script 07 - KNN and Distance Standardization<br>
-- Script 08 - Nonparametric Modeling with Regression Trees<br>
-- Script 09 - Hyperparameter Tuning<br>
-- Script 10 - Nonparametric Ensemble Models<br><br>
-
-### Classification Modeling
-- Script 01 - Preparing the Titanic Dataset
-- Script 02 - From Regression to Classification
-- Script 03 - Changing the Prediction Threshold
-- Script 04 - Classification Trees
-- Script 05 - Hyperparameter Tuning and Ensemble Modeling
-- Script 06 - Classification Modeling with Unsupervised Data
-<br><br>
+- Script 01 - Fundamentals of Computer Vision<br>
+- Script 02 - Principal Component Analysis<br>
+- Script 03 - Combining PCA and Clustering<br>
+- Script 04 - Classification Modeling with Unsupervised Data<br><br>
 
 ### Special Thanks to Binder
 [Binder](https://mybinder.org/) made it possible for you to open this book with a single click. This has potentially saved every reader hours of setup time.
