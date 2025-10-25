@@ -11,7 +11,7 @@ Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">sup
 <br><br>
 
 ## Table of Contents
-### Regression Modeling
+### Dimensionality Reduction and Clustering
 - Script 01 - Fundamentals of Computer Vision<br>
 - Script 02 - Principal Component Analysis<br>
 - Script 03 - Combining PCA and Clustering<br>
